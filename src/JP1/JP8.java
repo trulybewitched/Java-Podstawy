@@ -23,7 +23,7 @@ public class JP8 {
         int vat_tax = 23;
         System.out.println(salary_net * (1 + ((double) vat_tax) / 100));
         System.out.printf("%.2fzł \n", salary_net * (1 + ((double) vat_tax) / 100));
-
+// P6
     }
 }
 
